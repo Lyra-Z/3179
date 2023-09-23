@@ -1,101 +1,101 @@
-Rank,Restaurant Name,City,Country,Continent,Tasting menu from(USD),Tasting menu from(AUD),Count
-1,Central,Lima,Peru,South America,180,283,1
-2,Disfrutar,Barcelona,Spain,Europe,165,259,1
-3,Diverxo,Madrid,Spain,Europe,280,440,1
-4,Asador Etxebarri,Atxondo,Spain,Europe,200,314,1
-5,Alchemist,Copenhagen,Denmark,Europe,570,895,1
-6,Maido,Lima,Peru,South America,150,236,1
-7,Lido 84,Gardone Riviera,Italy,Europe,100,157,1
-8,Atomix,New York,United States,North America,205,322,1
-9,Quintonil,Mexico City,Mexico,North America,120,188,1
-10,Table by Bruno Verjus,Paris,France,Europe,125,196,1
-11,Tr¨¨sind Studio,Dubai,United Arab Emirates,Asia,135,212,1
-12,A Casa do Porco,S?o Paulo,Brazil,South America,40,63,1
-13,Pujol,Mexico City,Mexico,North America,120,188,1
-14,Odette,Singapore,Singapore,Asia,110,173,1
-15,Le Du,Bangkok,Thailand,Asia,75,118,1
-16,Reale,Castel di Sangro,Italy,Europe,190,298,1
-17,Gaggan Anand,Bangkok,Thailand,Asia,100,157,1
-18,Steirereck,Vienna,Austria,Europe,115,181,1
-19,Don Julio,Buenos Aires,Argentina,South America,30,47,1
-20,Quique Dacosta,D¨¦nia,Spain,Europe,235,369,1
-21,Den,Tokyo,Japan,Asia,140,220,1
-22,Elkano,Getaria,Spain,Europe,60,94,1
-23,Kol,London,United Kingdom,Europe,135,212,1
-24,Septime,Paris,France,Europe,65,102,1
-25,Belcanto,Lisbon,Portugal,Europe,185,290,1
-26,Schloss Schauenstein,Furstenau,Switzerland,Europe,250,393,1
-27,Floril¨¨ge,Tokyo,Japan,Asia,70,110,1
-28,Kjolle,Lima,Peru,South America,125,196,1
-29,Borag¨®,Santiago,Chile,South America,90,141,1
-30,Frantz¨¦n,Stockholm,Sweden,Europe,365,573,1
-31,Mugaritz,San Sebastian,Spain,Europe,245,385,1
-32,Hi?a Franko,Kobarid,Slovenia,Europe,225,353,1
-33,El Chato,Bogota,Colombia,South America,40,63,1
-34,Uliassi,Senigallia,Italy,Europe,180,283,1
-35,Ikoyi,London,United Kingdom,Europe,95,149,1
-36,Pl¨¦nitude,Paris,France,Europe,415,652,1
-37,S¨¦zanne,Tokyo,Japan,Asia,190,298,1
-38,The Clove Club,London,United Kingdom,Europe,120,188,1
-39,The Jane,Antwerp,Belgium,Europe,215,338,1
-40,Restaurant Tim Raue,Berlin,Germany,Europe,100,157,1
-41,Le Calandre,Rubano,Italy,Europe,255,400,1
-42,Piazza Duomo,Alba,Italy,Europe,295,463,1
-43,Leo,Bogota,Colombia,South America,100,157,1
-44,Le Bernardin,New York,United States,North America,190,298,1
-45,Nobelhart & Schmutzig,Berlin,Germany,Europe,105,165,1
-46,Orfali Bros Bistro,Dubai,United Arab Emirates,Asia,50,79,1
-47,Mayta,Lima,Peru,South America,41,64,1
-48,La Grenouill¨¨re,La Madeleine-Sous-Montreuil,France,Europe,115,181,1
-49,Rosetta,Mexico City,Mexico,North America,40,63,1
-50,The Chairman,Hong Kong,Hong Kong,Asia,85,133,1
-51,Narisawa,Tokyo,Japan,Asia,250,393,1
-52,Hof Van Cleve,Kruishoutem,Belgium,Europe,220,345,1
-53,Brat,London,United Kingdom,Europe,40,63,1
-54,Alcalde,Guadalajara,Mexico,North America,80,126,1
-55,Ernst,Berlin,Germany,Europe,205,322,1
-56,Sorn,Bangkok,Thailand,Asia,85,133,1
-57,Jordn?r,Copenhagen,Denmark,Europe,415,652,1
-58,Lasai,Rio de Janeiro,Brazil,South America,100,157,1
-59,M¨¦rito,Lima,Peru,South America,35,55,1
-60,La Cime,Osaka,Japan,Asia,80,126,1
-61,Chef's Table at Brooklyn Fare,New York,United States,North America,360,565,1
-62,Arp¨¨ge,Paris,France,Europe,195,306,1
-63,Neolokal,Istanbul,Turkey,Asia,30,47,1
-64,Aponiente,El Puerto de Santa Mar¨ªa,Spain,Europe,220,345,1
-65,Burnt Ends,Singapore,Singapore,Asia,110,173,1
-66,Turk Fatih Tutak,Istanbul,Turkey,Asia,118,185,1
-67,Le Clarence,Paris,France,Europe,380,597,1
-68,SingleThread,Healdsburg,United States,North America,330,518,1
-69,Z¨¦n,Singapore,Singapore,Asia,330,518,1
-70,Sud 777,Mexico City,Mexico,North America,80,126,1
-71,Core by Clare Smyth,London,United Kingdom,Europe,160,251,1
-72,S¨¹hring,Bangkok,Thailand,Asia,110,173,1
-73,Cosme,New York,United States,North America,100,157,1
-74,Nusara,Bangkok,Thailand,Asia,60,94,1
-75,Fyn,Cape Town,South Africa,Africa,35,55,1
-76,Oteque,Rio de Janeiro,Brazil,South America,120,188,1
-77,Tantris,Munich,Germany,Europe,110,173,1
-78,All¨¦no Paris au Pavillon Ledoyen,Paris,France,Europe,425,667,1
-79,Nuema,Quito,Ecuador,South America,85,133,1
-80,Flocons de Sel,Meg¨¨ve,France,Europe,185,290,1
-81,Azurmendi,Larrabetzu,Spain,Europe,245,385,1
-82,Enigma,Barcelona,Spain,Europe,85,133,1
-83,Sazenka,Tokyo,Japan,Asia,185,290,1
-84,Meta,Singapore,Singapore,Asia,45,71,1
-85,Enrico Bartolini,Milan,Italy,Europe,300,471,1
-86,Lyle's,London,United Kingdom,Europe,75,118,1
-87,Ossiano,Dubai,United Arab Emirates,Asia,315,495,1
-88,Potong,Bangkok,Thailand,Asia,140,220,1
-89,Mingles,Seoul,South Korea,Asia,75,118,1
-90,Wing,Hong Kong,Hong Kong,Asia,225,353,1
-91,Kadeau,Copenhagen,Denmark,Europe,330,518,1
-92,Neighborhood,Hong Kong,Hong Kong,Asia,35,55,1
-93,Kei,Paris,France,Europe,140,220,1
-94,La Colombe,Cape Town,South Africa,Africa,35,55,1
-95,Ceto,Roquebrune-Cap-Martin,France,Europe,170,267,1
-96,Ricard Camarena Restaurant,Valencia,Spain,Europe,75,118,1
-97,Labyrinth,Singapore,Singapore,Asia,78,122,1
-98,Saison,San Francisco,United States,North America,288,452,1
-99,Fu He Hui,Shanghai,China,Asia,80,126,1
-100,Maito,Panama City,Panama,North America,70,110,1
+Rank,Restaurant Name,City,Country,Continent,Tasting menu from(USD),Tasting menu from(AUD),Latitude,Longitude
+1,Central,Lima,Peru,South America,180,283,-12.15244901,-77.02249009
+2,Disfrutar,Barcelona,Spain,Europe,165,259,-12.12515795,-77.0304242
+3,Diverxo,Madrid,Spain,Europe,280,440,45.62531674,10.57569534
+4,Asador Etxebarri,Atxondo,Spain,Europe,200,314,40.74448365,-73.98282875
+5,Alchemist,Copenhagen,Denmark,Europe,570,895,19.4310229,-99.19159349
+6,Maido,Lima,Peru,South America,150,236,48.84895689,2.375934528
+7,Lido 84,Gardone Riviera,Italy,Europe,100,157,25.09919076,55.15461069
+8,Atomix,New York,United States,North America,205,322,-23.54474637,-46.64407914
+9,Quintonil,Mexico City,Mexico,North America,120,188,19.43247746,-99.19477029
+10,Table by Bruno Verjus,Paris,France,Europe,125,196,1.289856864,103.8513682
+11,Tr¨¨sind Studio,Dubai,United Arab Emirates,Asia,135,212,13.72522921,100.5293521
+12,A Casa do Porco,Sao Paulo,Brazil,South America,40,63,41.78011917,14.09460253
+13,Pujol,Mexico City,Mexico,North America,120,188,13.74100271,100.5676618
+14,Odette,Singapore,Singapore,Asia,110,173,48.20456503,16.38186787
+15,Le Du,Bangkok,Thailand,Asia,75,118,-34.58617165,-58.4239365
+16,Reale,Castel di Sangro,Italy,Europe,190,298,38.8538675,0.08535223
+17,Gaggan Anand,Bangkok,Thailand,Asia,100,157,35.67337663,139.7126894
+18,Steirereck,Vienna,Austria,Europe,115,181,43.30322505,-2.204924059
+19,Don Julio,Buenos Aires,Argentina,South America,30,47,51.51484449,-0.157576047
+20,Quique Dacosta,D¨¦nia,Spain,Europe,235,369,48.85372758,2.380954755
+21,Den,Tokyo,Japan,Asia,140,220,38.71020821,-9.141508518
+22,Elkano,Getaria,Spain,Europe,60,94,46.72124789,9.446107186
+23,Kol,London,United Kingdom,Europe,135,212,35.66169644,139.7435432
+24,Septime,Paris,France,Europe,65,102,-12.15270471,-77.02256386
+25,Belcanto,Lisbon,Portugal,Europe,185,290,-33.38230395,-70.58407046
+26,Schloss Schauenstein,Furstenau,Switzerland,Europe,250,393,59.3340414,18.0588377
+27,Floril¨¨ge,Tokyo,Japan,Asia,70,110,43.27247468,-1.916889938
+28,Kjolle,Lima,Peru,South America,125,196,46.24736788,13.53805108
+29,Borag¨®,Santiago,Chile,South America,90,141,4.648077747,-74.05689036
+30,Frantz¨¦n,Stockholm,Sweden,Europe,365,573,43.71961815,13.22105996
+31,Mugaritz,San Sebastian,Spain,Europe,245,385,51.51248469,-0.115141246
+32,Hisa Franko,Kobarid,Slovenia,Europe,225,353,48.8588759,2.34192788
+33,El Chato,Bogota,Colombia,South America,40,63,35.67822781,139.7668597
+34,Uliassi,Senigallia,Italy,Europe,180,283,51.52721064,-0.079048824
+35,Ikoyi,London,United Kingdom,Europe,95,149,51.20255422,4.423375396
+36,Pl¨¦nitude,Paris,France,Europe,415,652,52.50703184,13.39152543
+37,S¨¦zanne,Tokyo,Japan,Asia,190,298,45.42184067,11.80983755
+38,The Clove Club,London,United Kingdom,Europe,120,188,44.70075172,8.035835197
+39,The Jane,Antwerp,Belgium,Europe,215,338,4.648369121,-74.05640799
+40,Restaurant Tim Raue,Berlin,Germany,Europe,100,157,40.76151929,-73.98161633
+41,Le Calandre,Rubano,Italy,Europe,255,400,52.50541524,13.39124392
+42,Piazza Duomo,Alba,Italy,Europe,295,463,25.2188438,55.26166243
+43,Leo,Bogota,Colombia,South America,100,157,-12.10969507,-77.04928713
+44,Le Bernardin,New York,United States,North America,190,298,50.47117872,1.754890116
+45,Nobelhart & Schmutzig,Berlin,Germany,Europe,105,165,19.42000851,-99.15946831
+46,Orfali Bros Bistro,Dubai,United Arab Emirates,Asia,50,79,22.2850123,114.1534168
+47,Mayta,Lima,Peru,South America,41,64,35.67186611,139.722159
+48,La Grenouill¨¨re,La Madeleine-Sous-Montreuil,France,Europe,115,181,50.9037417,3.509731999
+49,Rosetta,Mexico City,Mexico,North America,40,63,51.52431765,-0.076595814
+50,The Chairman,Hong Kong,Hong Kong,Asia,85,133,20.67949792,-103.3895282
+51,Narisawa,Tokyo,Japan,Asia,250,393,52.54479887,13.36818106
+52,Hof Van Cleve,Kruishoutem,Belgium,Europe,220,345,13.72338439,100.5687116
+53,Brat,London,United Kingdom,Europe,40,63,55.7483653,12.54170142
+54,Alcalde,Guadalajara,Mexico,North America,80,126,-22.95321916,-43.19578569
+55,Ernst,Berlin,Germany,Europe,205,322,-12.15038947,-77.02079694
+56,Sorn,Bangkok,Thailand,Asia,85,133,34.68598259,135.5035041
+57,Jordnaer,Copenhagen,Denmark,Europe,415,652,40.75627569,-73.99607472
+58,Lasai,Rio de Janeiro,Brazil,South America,100,157,48.8558509,2.317164757
+59,M¨¦rito,Lima,Peru,South America,35,55,41.02400615,28.97360655
+60,La Cime,Osaka,Japan,Asia,80,126,36.60333977,-6.215928305
+61,Chef's Table at Brooklyn Fare,New York,United States,North America,360,565,1.304831246,103.8093895
+62,Arp¨¨ge,Paris,France,Europe,195,306,41.05848742,28.97775655
+63,Neolokal,Istanbul,Turkey,Asia,30,47,48.86753969,2.31029961
+64,Aponiente,El Puerto de Santa Mar¨ªa,Spain,Europe,220,345,38.6124045,-122.8695296
+65,Burnt Ends,Singapore,Singapore,Asia,110,173,1.279683222,103.8403607
+66,Turk Fatih Tutak,Istanbul,Turkey,Asia,118,185,19.30930147,-99.20910677
+67,Le Clarence,Paris,France,Europe,380,597,51.51291289,-0.202768722
+68,SingleThread,Healdsburg,United States,North America,330,518,13.71106344,100.5456266
+69,Z¨¦n,Singapore,Singapore,Asia,330,518,40.73978214,-73.98824911
+70,Sud 777,Mexico City,Mexico,North America,80,126,13.74585891,100.4918071
+71,Core by Clare Smyth,London,United Kingdom,Europe,160,251,-33.92458944,18.42188893
+72,S¨¹hring,Bangkok,Thailand,Asia,110,173,-22.95730612,-43.1941047
+73,Cosme,New York,United States,North America,100,157,48.16989615,11.5884892
+74,Nusara,Bangkok,Thailand,Asia,60,94,48.86624574,2.316645416
+75,Fyn,Cape Town,South Africa,Africa,35,55,-0.197084467,-78.48109056
+76,Oteque,Rio de Janeiro,Brazil,South America,120,188,45.83053387,6.596812252
+77,Tantris,Munich,Germany,Europe,110,173,43.26072876,-2.815890328
+78,All¨¦no Paris au Pavillon Ledoyen,Paris,France,Europe,425,667,41.37741046,2.15410175
+79,Nuema,Quito,Ecuador,South America,85,133,35.64968761,139.7286634
+80,Flocons de Sel,Meg¨¨ve,France,Europe,185,290,1.29400766,103.8418652
+81,Azurmendi,Larrabetzu,Spain,Europe,245,385,45.4517233,9.162099251
+82,Enigma,Barcelona,Spain,Europe,85,133,51.52394108,-0.076541075
+83,Sazenka,Tokyo,Japan,Asia,185,290,25.13138196,55.11762704
+84,Meta,Singapore,Singapore,Asia,45,71,13.73926953,100.5094374
+85,Enrico Bartolini,Milan,Italy,Europe,300,471,37.52555129,127.0443812
+86,Lyle's,London,United Kingdom,Europe,75,118,22.28667623,114.153001
+87,Ossiano,Dubai,United Arab Emirates,Asia,315,495,55.67237908,12.58902381
+88,Potong,Bangkok,Thailand,Asia,140,220,22.28327273,114.1528921
+89,Mingles,Seoul,South Korea,Asia,75,118,50.14839886,2.078410451
+90,Wing,Hong Kong,Hong Kong,Asia,225,353,-34.01497493,18.40336494
+91,Kadeau,Copenhagen,Denmark,Europe,330,518,43.75690605,7.444339882
+92,Neighborhood,Hong Kong,Hong Kong,Asia,35,55,39.48544095,-0.38475208
+93,Kei,Paris,France,Europe,140,220,1.289888338,103.8564156
+94,La Colombe,Cape Town,South Africa,Africa,35,55,37.77965845,-122.3923013
+95,Ceto,Roquebrune-Cap-Martin,France,Europe,170,267,31.21883231,121.4299072
+96,Ricard Camarena Restaurant,Valencia,Spain,Europe,75,118,8.994512151,-79.49741372
+97,Labyrinth,Singapore,Singapore,Asia,78,122,,
+98,Saison,San Francisco,United States,North America,288,452,,
+99,Fu He Hui,Shanghai,China,Asia,80,126,,
+100,Maito,Panama City,Panama,North America,70,110,,
