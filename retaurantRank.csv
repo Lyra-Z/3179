@@ -1,101 +1,101 @@
-Rank,Restaurant Name,City,Country,Continent,Tasting menu from(USD),Tasting menu from(AUD)
-1,Central,Lima,Peru,South America,180,283
-2,Disfrutar,Barcelona,Spain,Europe,165,259
-3,Diverxo,Madrid,Spain,Europe,280,440
-4,Asador Etxebarri,Atxondo,Spain,Europe,200,314
-5,Alchemist,Copenhagen,Denmark,Europe,570,895
-6,Maido,Lima,Peru,South America,150,236
-7,Lido 84,Gardone Riviera,Italy,Europe,100,157
-8,Atomix,New York,United States,North America,205,322
-9,Quintonil,Mexico City,Mexico,North America,120,188
-10,Table by Bruno Verjus,Paris,France,Europe,125,196
-11,Tr¨¨sind Studio,Dubai,United Arab Emirates,Asia,135,212
-12,A Casa do Porco,S?o Paulo,Brazil,South America,40,63
-13,Pujol,Mexico City,Mexico,North America,120,188
-14,Odette,Singapore,Singapore,Asia,110,173
-15,Le Du,Bangkok,Thailand,Asia,75,118
-16,Reale,Castel di Sangro,Italy,Europe,190,298
-17,Gaggan Anand,Bangkok,Thailand,Asia,100,157
-18,Steirereck,Vienna,Austria,Europe,115,181
-19,Don Julio,Buenos Aires,Argentina,South America,30,47
-20,Quique Dacosta,D¨¦nia,Spain,Europe,235,369
-21,Den,Tokyo,Japan,Asia,140,220
-22,Elkano,Getaria,Spain,Europe,60,94
-23,Kol,London,United Kingdom,Europe,135,212
-24,Septime,Paris,France,Europe,65,102
-25,Belcanto,Lisbon,Portugal,Europe,185,290
-26,Schloss Schauenstein,Furstenau,Switzerland,Europe,250,393
-27,Floril¨¨ge,Tokyo,Japan,Asia,70,110
-28,Kjolle,Lima,Peru,South America,125,196
-29,Borag¨®,Santiago,Chile,South America,90,141
-30,Frantz¨¦n,Stockholm,Sweden,Europe,365,573
-31,Mugaritz,San Sebastian,Spain,Europe,245,385
-32,Hi?a Franko,Kobarid,Slovenia,Europe,225,353
-33,El Chato,Bogota,Colombia,South America,40,63
-34,Uliassi,Senigallia,Italy,Europe,180,283
-35,Ikoyi,London,United Kingdom,Europe,95,149
-36,Pl¨¦nitude,Paris,France,Europe,415,652
-37,S¨¦zanne,Tokyo,Japan,Asia,190,298
-38,The Clove Club,London,United Kingdom,Europe,120,188
-39,The Jane,Antwerp,Belgium,Europe,215,338
-40,Restaurant Tim Raue,Berlin,Germany,Europe,100,157
-41,Le Calandre,Rubano,Italy,Europe,255,400
-42,Piazza Duomo,Alba,Italy,Europe,295,463
-43,Leo,Bogota,Colombia,South America,100,157
-44,Le Bernardin,New York,United States,North America,190,298
-45,Nobelhart & Schmutzig,Berlin,Germany,Europe,105,165
-46,Orfali Bros Bistro,Dubai,United Arab Emirates,Asia,50,79
-47,Mayta,Lima,Peru,South America,41,64
-48,La Grenouill¨¨re,La Madeleine-Sous-Montreuil,France,Europe,115,181
-49,Rosetta,Mexico City,Mexico,North America,40,63
-50,The Chairman,Hong Kong,Hong Kong,Asia,85,133
-51,Narisawa,Tokyo,Japan,Asia,250,393
-52,Hof Van Cleve,Kruishoutem,Belgium,Europe,220,345
-53,Brat,London,United Kingdom,Europe,40,63
-54,Alcalde,Guadalajara,Mexico,North America,80,126
-55,Ernst,Berlin,Germany,Europe,205,322
-56,Sorn,Bangkok,Thailand,Asia,85,133
-57,Jordn?r,Copenhagen,Denmark,Europe,415,652
-58,Lasai,Rio de Janeiro,Brazil,South America,100,157
-59,M¨¦rito,Lima,Peru,South America,35,55
-60,La Cime,Osaka,Japan,Asia,80,126
-61,Chef's Table at Brooklyn Fare,New York,United States,North America,360,565
-62,Arp¨¨ge,Paris,France,Europe,195,306
-63,Neolokal,Istanbul,Turkey,Asia,30,47
-64,Aponiente,El Puerto de Santa Mar¨ªa,Spain,Europe,220,345
-65,Burnt Ends,Singapore,Singapore,Asia,110,173
-66,Turk Fatih Tutak,Istanbul,Turkey,Asia,118,185
-67,Le Clarence,Paris,France,Europe,380,597
-68,SingleThread,Healdsburg,United States,North America,330,518
-69,Z¨¦n,Singapore,Singapore,Asia,330,518
-70,Sud 777,Mexico City,Mexico,North America,80,126
-71,Core by Clare Smyth,London,United Kingdom,Europe,160,251
-72,S¨¹hring,Bangkok,Thailand,Asia,110,173
-73,Cosme,New York,United States,North America,100,157
-74,Nusara,Bangkok,Thailand,Asia,60,94
-75,Fyn,Cape Town,South Africa,Africa,35,55
-76,Oteque,Rio de Janeiro,Brazil,South America,120,188
-77,Tantris,Munich,Germany,Europe,110,173
-78,All¨¦no Paris au Pavillon Ledoyen,Paris,France,Europe,425,667
-79,Nuema,Quito,Ecuador,South America,85,133
-80,Flocons de Sel,Meg¨¨ve,France,Europe,185,290
-81,Azurmendi,Larrabetzu,Spain,Europe,245,385
-82,Enigma,Barcelona,Spain,Europe,85,133
-83,Sazenka,Tokyo,Japan,Asia,185,290
-84,Meta,Singapore,Singapore,Asia,45,71
-85,Enrico Bartolini,Milan,Italy,Europe,300,471
-86,Lyle's,London,United Kingdom,Europe,75,118
-87,Ossiano,Dubai,United Arab Emirates,Asia,315,495
-88,Potong,Bangkok,Thailand,Asia,140,220
-89,Mingles,Seoul,South Korea,Asia,75,118
-90,Wing,Hong Kong,Hong Kong,Asia,225,353
-91,Kadeau,Copenhagen,Denmark,Europe,330,518
-92,Neighborhood,Hong Kong,Hong Kong,Asia,35,55
-93,Kei,Paris,France,Europe,140,220
-94,La Colombe,Cape Town,South Africa,Africa,35,55
-95,Ceto,Roquebrune-Cap-Martin,France,Europe,170,267
-96,Ricard Camarena Restaurant,Valencia,Spain,Europe,75,118
-97,Labyrinth,Singapore,Singapore,Asia,78,122
-98,Saison,San Francisco,United States,North America,288,452
-99,Fu He Hui,Shanghai,China,Asia,80,126
-100,Maito,Panama City,Panama,North America,70,110
+Rank,Restaurant Name,City,Country,Continent,Tasting menu from(USD),Tasting menu from(AUD),Count
+1,Central,Lima,Peru,South America,180,283,1
+2,Disfrutar,Barcelona,Spain,Europe,165,259,1
+3,Diverxo,Madrid,Spain,Europe,280,440,1
+4,Asador Etxebarri,Atxondo,Spain,Europe,200,314,1
+5,Alchemist,Copenhagen,Denmark,Europe,570,895,1
+6,Maido,Lima,Peru,South America,150,236,1
+7,Lido 84,Gardone Riviera,Italy,Europe,100,157,1
+8,Atomix,New York,United States,North America,205,322,1
+9,Quintonil,Mexico City,Mexico,North America,120,188,1
+10,Table by Bruno Verjus,Paris,France,Europe,125,196,1
+11,Tr¨¨sind Studio,Dubai,United Arab Emirates,Asia,135,212,1
+12,A Casa do Porco,S?o Paulo,Brazil,South America,40,63,1
+13,Pujol,Mexico City,Mexico,North America,120,188,1
+14,Odette,Singapore,Singapore,Asia,110,173,1
+15,Le Du,Bangkok,Thailand,Asia,75,118,1
+16,Reale,Castel di Sangro,Italy,Europe,190,298,1
+17,Gaggan Anand,Bangkok,Thailand,Asia,100,157,1
+18,Steirereck,Vienna,Austria,Europe,115,181,1
+19,Don Julio,Buenos Aires,Argentina,South America,30,47,1
+20,Quique Dacosta,D¨¦nia,Spain,Europe,235,369,1
+21,Den,Tokyo,Japan,Asia,140,220,1
+22,Elkano,Getaria,Spain,Europe,60,94,1
+23,Kol,London,United Kingdom,Europe,135,212,1
+24,Septime,Paris,France,Europe,65,102,1
+25,Belcanto,Lisbon,Portugal,Europe,185,290,1
+26,Schloss Schauenstein,Furstenau,Switzerland,Europe,250,393,1
+27,Floril¨¨ge,Tokyo,Japan,Asia,70,110,1
+28,Kjolle,Lima,Peru,South America,125,196,1
+29,Borag¨®,Santiago,Chile,South America,90,141,1
+30,Frantz¨¦n,Stockholm,Sweden,Europe,365,573,1
+31,Mugaritz,San Sebastian,Spain,Europe,245,385,1
+32,Hi?a Franko,Kobarid,Slovenia,Europe,225,353,1
+33,El Chato,Bogota,Colombia,South America,40,63,1
+34,Uliassi,Senigallia,Italy,Europe,180,283,1
+35,Ikoyi,London,United Kingdom,Europe,95,149,1
+36,Pl¨¦nitude,Paris,France,Europe,415,652,1
+37,S¨¦zanne,Tokyo,Japan,Asia,190,298,1
+38,The Clove Club,London,United Kingdom,Europe,120,188,1
+39,The Jane,Antwerp,Belgium,Europe,215,338,1
+40,Restaurant Tim Raue,Berlin,Germany,Europe,100,157,1
+41,Le Calandre,Rubano,Italy,Europe,255,400,1
+42,Piazza Duomo,Alba,Italy,Europe,295,463,1
+43,Leo,Bogota,Colombia,South America,100,157,1
+44,Le Bernardin,New York,United States,North America,190,298,1
+45,Nobelhart & Schmutzig,Berlin,Germany,Europe,105,165,1
+46,Orfali Bros Bistro,Dubai,United Arab Emirates,Asia,50,79,1
+47,Mayta,Lima,Peru,South America,41,64,1
+48,La Grenouill¨¨re,La Madeleine-Sous-Montreuil,France,Europe,115,181,1
+49,Rosetta,Mexico City,Mexico,North America,40,63,1
+50,The Chairman,Hong Kong,Hong Kong,Asia,85,133,1
+51,Narisawa,Tokyo,Japan,Asia,250,393,1
+52,Hof Van Cleve,Kruishoutem,Belgium,Europe,220,345,1
+53,Brat,London,United Kingdom,Europe,40,63,1
+54,Alcalde,Guadalajara,Mexico,North America,80,126,1
+55,Ernst,Berlin,Germany,Europe,205,322,1
+56,Sorn,Bangkok,Thailand,Asia,85,133,1
+57,Jordn?r,Copenhagen,Denmark,Europe,415,652,1
+58,Lasai,Rio de Janeiro,Brazil,South America,100,157,1
+59,M¨¦rito,Lima,Peru,South America,35,55,1
+60,La Cime,Osaka,Japan,Asia,80,126,1
+61,Chef's Table at Brooklyn Fare,New York,United States,North America,360,565,1
+62,Arp¨¨ge,Paris,France,Europe,195,306,1
+63,Neolokal,Istanbul,Turkey,Asia,30,47,1
+64,Aponiente,El Puerto de Santa Mar¨ªa,Spain,Europe,220,345,1
+65,Burnt Ends,Singapore,Singapore,Asia,110,173,1
+66,Turk Fatih Tutak,Istanbul,Turkey,Asia,118,185,1
+67,Le Clarence,Paris,France,Europe,380,597,1
+68,SingleThread,Healdsburg,United States,North America,330,518,1
+69,Z¨¦n,Singapore,Singapore,Asia,330,518,1
+70,Sud 777,Mexico City,Mexico,North America,80,126,1
+71,Core by Clare Smyth,London,United Kingdom,Europe,160,251,1
+72,S¨¹hring,Bangkok,Thailand,Asia,110,173,1
+73,Cosme,New York,United States,North America,100,157,1
+74,Nusara,Bangkok,Thailand,Asia,60,94,1
+75,Fyn,Cape Town,South Africa,Africa,35,55,1
+76,Oteque,Rio de Janeiro,Brazil,South America,120,188,1
+77,Tantris,Munich,Germany,Europe,110,173,1
+78,All¨¦no Paris au Pavillon Ledoyen,Paris,France,Europe,425,667,1
+79,Nuema,Quito,Ecuador,South America,85,133,1
+80,Flocons de Sel,Meg¨¨ve,France,Europe,185,290,1
+81,Azurmendi,Larrabetzu,Spain,Europe,245,385,1
+82,Enigma,Barcelona,Spain,Europe,85,133,1
+83,Sazenka,Tokyo,Japan,Asia,185,290,1
+84,Meta,Singapore,Singapore,Asia,45,71,1
+85,Enrico Bartolini,Milan,Italy,Europe,300,471,1
+86,Lyle's,London,United Kingdom,Europe,75,118,1
+87,Ossiano,Dubai,United Arab Emirates,Asia,315,495,1
+88,Potong,Bangkok,Thailand,Asia,140,220,1
+89,Mingles,Seoul,South Korea,Asia,75,118,1
+90,Wing,Hong Kong,Hong Kong,Asia,225,353,1
+91,Kadeau,Copenhagen,Denmark,Europe,330,518,1
+92,Neighborhood,Hong Kong,Hong Kong,Asia,35,55,1
+93,Kei,Paris,France,Europe,140,220,1
+94,La Colombe,Cape Town,South Africa,Africa,35,55,1
+95,Ceto,Roquebrune-Cap-Martin,France,Europe,170,267,1
+96,Ricard Camarena Restaurant,Valencia,Spain,Europe,75,118,1
+97,Labyrinth,Singapore,Singapore,Asia,78,122,1
+98,Saison,San Francisco,United States,North America,288,452,1
+99,Fu He Hui,Shanghai,China,Asia,80,126,1
+100,Maito,Panama City,Panama,North America,70,110,1
